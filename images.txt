@@ -1,2 +1,4 @@
-registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.9.0
- openlocal/open-local:v0.8.0
+registry.k8s.io/sig-storage/csi-provisioner:v3.5.0
+registry.k8s.io/sig-storage/csi-resizer:v1.9.0
+registry.k8s.io/sig-storage/csi-snapshotter:v6.3.0
+registry.k8s.io/sig-storage/snapshot-controller:v6.3.0
