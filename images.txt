@@ -1,6 +1,6 @@
 nginx
 golang
-ecp_builder/open-local
+open-local
 --platform=linux/arm64 docker.io/flannel/flannel-cni-plugin:v1.4.1-flannel1
 --platform=linux/arm64 docker.io/flannel/flannel:v0.25.4
 --platform=linux/arm64 docker.io/kubernetesui/dashboard-api:1.7.0
