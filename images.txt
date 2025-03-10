@@ -1,3 +1,2 @@
-
- openlocal/open-local
- openlocal/csi-provisioner
+registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.9.0
+ openlocal/open-local:v0.8.0
